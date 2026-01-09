@@ -5,7 +5,7 @@
   I'm studying English, so sorry if my English is hard to understand 🙇
 </p>
 <p align="center">
-  <a href="https://github.com/noritaka1166"><img src="https://img.shields.io/github/followers/noritaka1166?label=GitHub&style=social"></a>
+  <a href="https://github.com/ricomarinoe"><img src="https://img.shields.io/github/followers/ricomarinoe?label=GitHub&style=social"></a>
 </p>
 
 ---
